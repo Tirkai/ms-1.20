@@ -11,6 +11,6 @@ services:
     environment:
       TYPE: FORGE
       EULA: "TRUE"
-      VERSION: "1.20.4"
+      VERSION: "1.20.1"
     volumes:
       - ./data:/data
